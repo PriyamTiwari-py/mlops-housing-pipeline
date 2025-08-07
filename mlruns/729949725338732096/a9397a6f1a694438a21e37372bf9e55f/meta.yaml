@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/priyamtiwari/Downloads/MLOps%20Assignment/mlops-housing-pipeline/mlruns/729949725338732096/a9397a6f1a694438a21e37372bf9e55f/artifacts
+end_time: 1754580601417
+entry_point_name: ''
+experiment_id: '729949725338732096'
+lifecycle_stage: active
+run_id: a9397a6f1a694438a21e37372bf9e55f
+run_name: DecisionTreeRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754580600008
+status: 3
+tags: []
+user_id: priyamtiwari

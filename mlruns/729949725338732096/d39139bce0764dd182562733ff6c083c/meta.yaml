@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/priyamtiwari/Downloads/MLOps%20Assignment/mlops-housing-pipeline/mlruns/729949725338732096/d39139bce0764dd182562733ff6c083c/artifacts
+end_time: 1754580600007
+entry_point_name: ''
+experiment_id: '729949725338732096'
+lifecycle_stage: active
+run_id: d39139bce0764dd182562733ff6c083c
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754580598110
+status: 3
+tags: []
+user_id: priyamtiwari

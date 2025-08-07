@@ -1,0 +1,10 @@
+artifact_location: file:///Users/priyamtiwari/Downloads/MLOps%20Assignment/mlops-housing-pipeline/mlruns/729949725338732096/models/m-02d10e8c59cd422fb61b5ef268ba85a5/artifacts
+creation_timestamp: 1754580600059
+experiment_id: '729949725338732096'
+last_updated_timestamp: 1754580601416
+model_id: m-02d10e8c59cd422fb61b5ef268ba85a5
+model_type: null
+name: model
+source_run_id: a9397a6f1a694438a21e37372bf9e55f
+status: 2
+status_message: null
