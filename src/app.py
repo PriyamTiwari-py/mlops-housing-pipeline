@@ -3,7 +3,7 @@ from pydantic import BaseModel
 import mlflow
 import pandas as pd
 
-# Define input schema using Pydantic
+#   Define input schema using Pydantic
 class HousingInput(BaseModel):
     MedInc: float
     HouseAge: float
